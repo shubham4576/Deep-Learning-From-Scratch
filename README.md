@@ -21,11 +21,12 @@ A personal journey into the world of Artificial Intelligence, Machine Learning, 
 - Projects: Build a digit recognizer using MNIST, image classifiers, etc.  
 
 ## 📂 Folder Structure  
+```
 ├── Courses/ # Notes and summaries from courses
 ├── Projects/ # Code and experiments for hands-on projects
 ├── Resources/ # Links to helpful articles, videos, and books
 └── README.md # This file
-
+```
 
 ## 💡 Why This Repository?  
 This repository is my way of staying organized and reflecting on my progress as I dive deeper into AI. Feel free to explore and learn alongside me!  
